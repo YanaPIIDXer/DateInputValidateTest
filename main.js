@@ -2,7 +2,7 @@ new Vue({
     el: '#app',
     data: function () {
         return {
-            date: "",
+            date: "2022-06-26",
         }
     }
 })
