@@ -1,0 +1,2 @@
+# DateInputValidateTest
+inputタグのdateのバリデーションテスト
